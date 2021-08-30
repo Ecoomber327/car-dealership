@@ -5,9 +5,13 @@ This code reads in information about cars and stores their information in a Hash
 Each car has the following attributes:
 
 VIN number
+
 Year
+
 Vehicle type
+
 Manufacturer
+
 Month Acquired/Sold
 
 The car's VIN number serves as the key to the Hash Table.
