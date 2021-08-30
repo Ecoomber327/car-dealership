@@ -12,4 +12,4 @@ Month Acquired/Sold
 
 The car's VIN number serves as the key to the Hash Table.
 
-Once the Hash Table is full, it will call the resize function of the Hash Table class.
+Once the Hash Table is full, it will automatically call the resize function of the Hash Table class.
