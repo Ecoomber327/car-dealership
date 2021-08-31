@@ -1,4 +1,4 @@
-# Car-dealership
+# Car-Dealership
 This code models a car dealership where cars are purchased and sold. Data structure used is a Hash Table for storing and searching. When running the code, make sure the 2 .txt files are in the same folder as the code.
 
 This code reads in information about cars and stores their information in a Hash Table.
