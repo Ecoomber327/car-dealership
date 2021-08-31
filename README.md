@@ -16,3 +16,5 @@ Manufacturer
 Month Acquired/Sold
 
 The car's VIN number serves as the key to the Hash Table. Once the Hash Table is full, it will automatically call the resize function of the Hash Table class.
+
+The code that needs to be run is in Dealership.java.
